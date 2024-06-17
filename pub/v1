@@ -1,0 +1,41 @@
+{
+ "Version": "1.0.0",
+ "ReleaseNotes": "mohan",
+ "Servers": [
+  {
+   "Name": "MTN 700MB",
+   "FLAG": "gh",
+   "ServerIP": "104.26.15.41",
+   "sPais": "Germany",
+   "ServerPort": "80",
+   "SSLPort": "",
+   "ProxyIP": "104.26.15.41",
+   "ProxyPort": "80",
+   "ServerUser": "alpha",
+   "ServerPass": "12345",
+   "sInfo": "Frankfurt DE Server",
+   "apiCheckUser": "",
+   "apiOnlineUser": "",
+   "Payload": "GET ws:\/\/[rotate=auth.mtn.com.gh;elearning.uhas.edu.gh] HTTP\/1.1[crlf]Host: auth.ayo4u.com[crlf]Upgrade: websocket[crlf][crlf]-_- ws:\/\/elsonmelekh.us HTTP\/1.1[crlf]Host: auth.ayo4u.com[crlf]Upgrade: websocket[crlf][crlf]",
+   "SNI": "",
+   "Slowchave": "",
+   "Nameserver": "",
+   "Slowdns": "",
+   "isSSL": "false",
+   "isInject": "true",
+   "isPayloadSSL": "false",
+   "isSlow": "false",
+   "isDirect": "false",
+   "isudp": "false",
+   "udpserver": "",
+   "udpauth": "",
+   "udpobfs": "",
+   "udpdown": "",
+   "udpup": "",
+   "udpbuffer": "",
+   "iv2ray": "false",
+   "v2rayJson": "",
+   "apilatamsrcv2ray": ""
+  }
+ ]
+}
